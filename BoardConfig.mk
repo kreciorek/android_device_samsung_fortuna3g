@@ -7,7 +7,7 @@ LOCAL_PATH := device/samsung/fortuna3g
 TARGET_OTA_ASSERT_DEVICE := fortuna3g,fortuna3gxx
 
 # Fix recovery image size
-BOARD_RECOVERYIMAGE_PARTITION_SIZE  := 15970320
+BOARD_RECOVERYIMAGE_PARTITION_SIZE  := 15972368
 
 # Kernel
 TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_fortuna3g_eur_defconfig
